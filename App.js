@@ -49,3 +49,28 @@ export default function App() {
   );
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'flex-end',
+    backgroundColor: 'black',
+    padding: 8,
+    paddingBottom: 14,
+  },
+  row: {
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    marginTop: 5,
+    marginBottom: 7,
+  },
+  icon: {
+    textAlign: 'center',
+  },
+});
+
+=======
+>>>>>>> 7779f020e618e405e1d4220d817dc9a891fa375b
+>>>>>>> Stashed changes
