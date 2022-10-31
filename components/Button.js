@@ -60,6 +60,6 @@ const styles = StyleSheet.create({
   },
   text: {
     textAlign: 'center',
-    fontSize: 32,
+    fontSize: 25,
   },
 });
